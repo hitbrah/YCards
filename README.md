@@ -6,4 +6,3 @@
 ## 💻 Tecnologias
 - HTML
 - CSS
-- JavaScript

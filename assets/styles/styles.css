@@ -3,13 +3,31 @@ body {
     background: #0a0a2a;
 }
 
-.container {
+.container-common {
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    margin-bottom: 25%;
+    margin-bottom: -3.5%;
+}
+
+.container-rare {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: -3.5%;
+}
+
+.container-ultra-rare {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: -3.5%;
 }
 
 .card {
